@@ -1,0 +1,167 @@
+<!doctype html>
+<html>
+	<head>
+		<title> Lauro Gonzaga Fotografias </title>
+		<meta charset="utf-8">
+		<link rel="stylesheet" href="css/style.css"> 
+		<link rel="stylesheet" href="http://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+	<body>
+	<nav>	
+	<div id="area-cabecalho">
+	<div class ="logo"><a href ="#"><img src ="img/logo.png"></a></div>
+	
+		<ul type="square">
+			<li><a href="#Home">Home</a></li>
+			<li><a href="#Sobre">Sobre</a></li>
+			<li><a href="#Clientes">Clientes</a></li>
+			<li><a href="trabalhos.php">Trabalhos</a></li>	
+			<li><a href="#Contato">Contato</a></li>
+			<li><a href="index.php">Entrar</a></li>
+		</ul>
+	</nav>
+	</div>
+	<script src="js/java.js"></script>
+	</head>
+	<section class="conteudo">
+	<section id="Home">
+	<center><img src ="img/cabecalho.png" title="Produção Áudio Visual é aqui"><br><br></center>
+	<center><align = center><font color="#f2f2f2" font face="Arial">Nosso diferencial como produtora de imagem e vídeo é trabalhar com projetos que atingem resultados, por isso gostamos de começar pelo objetivo final que se quer alcançar. Abaixo, algumas das inúmeras possibilidades da produção audiovisual:</font><br><br></center>
+	<br>
+	<br>
+		<table  width= 100% height=100% align= center>
+			<tr>
+				<td> 
+					<center><img src ="img/chegar.png" title="Aonde você quer chegar?"></center>
+					<center><h2><font color="#f2f2f2">Aonde você quer chegar </color><br><br></h2></center>
+					<p><center><font face="Arial">Fale sobre seus objetivos e nós fazemos<br>
+					vídeos que irão trazer o resultado.</p></center></font>
+				</td>
+				<td>
+					<center><img src ="img/seja.png" title="Seja premium"></center>
+					<center><h2><font color="#f2f2f2">Seja premium</color><br><br></h2></center>
+					<center><font face="Arial">Atendemos um número limitado de clientes <br>
+					simultâneos para obter sempre o máximo em qualidade.<br></center></font>
+				</td>
+				<td>
+					<center><img src ="img/flex.png" title="Flexibilidade"></center>
+					<center><h2><font color="#f2f2f2">Flexibilidade</color><br><br></h2></center>
+					<center><font face="Arial">Produtora de Vídeo conforme a sua necessidade,<br>
+					com orçamento, prazo e objetivos racionais.<br></center></font>
+				</td>
+			</tr>
+		</table>
+	</section>
+		
+		<hr width="50%">
+		
+		<section id="Sobre">
+			<img src ="img/sobre.png" title="Sobre">
+			<div class="container">
+			<img src ="img/lauro.jpg" title="Lauro">
+			<p><font color="#f2f2f2"><font face="Arial">Há 12 anos no mercado somos uma Produtora de Vídeo especializada em projetos de comunicação cujo produto final é o vídeo, com clientes de diversos portes em Minas e no Brasil inteiro.<br><br>
+			Estamos na melhor forma quando temos um objetivo a ser alcançado e então trabalhamos de forma incessante para atingir o sucesso absoluto do projeto.<br><br>
+			Prestamos serviço desde o prognóstico à entrega final. Entre uma coisa e outra, o arsenal contém virtualmente tudo que há para vídeo no estado da arte. Atendemos também agências e profissionais de marketing, para os quais nos encaixamos dentro do processo mais amplo de comunicação criado por eles.<br><br>
+			Com um número limitado de clientes simultâneos, priorizamos um atendimento premium a todos os clientes. No fim das contas, temos motivação que joga à favor: o gosto pela profissão, pela imagem bem gravada, pelo corte perfeito, pela computação elegante. Mas gostamos de pensar que, como produtora de vídeo, são os resultados que nos definem.</color><br><br></p>
+		</section>
+		
+		<hr width="50%">
+		
+		<section id="Clientes">
+			<img src ="img/clientes.png" title="Sobre">
+			<center>
+			<p><h1><font color="#f2f2f2"><font face="Arial">"Alguns de nossos depoimentos</p></h1></color><br><br></font>
+			<p><font color="#f2f2f2"><font face="Arial">"O nosso desafio constante é falar sobre o Minha Casa Minha Vida da maneira mais clara possível.<br>
+			Assim, a Matilde Filmes teve papel fundamental ao traduzir o briefing para um vídeo que funcionasse de forma didática.<br>
+			O resultado foi muito acima do que esperávamos, sendo o 5º vídeo de anunciante com mais engajamento no YouTube no mês <br>
+			de lançamento e um recorde de visualizações em nosso canal."<br>
+			<b>FERNANDA ABREU</b></color><br><br></p>			
+			<p><font color="#f2f2f2"><font face="Arial">"Tínhamos receio quanto à venda do produto. Porém o Lauro Fotografias fez um ótimo trabalho e após a divulgação<br>
+			do vídeo vendemos cerca de 10 mil peças, em um período de 3 meses, o dobro do melhor cenário que esperávamos.<br>
+			Um método excelente e muito bem executado pela produtora de vídeo."<br>
+			<b>GABRIEL VALERIO</b></color><br><br></p>
+			<p><font color="#f2f2f2"><font face="Arial">"O objetivo da vida não é apenas ser feliz. <br>
+			É ser feliz, útil, honrado, compassivo, fazendo com que nossa vida, bem vivida, faça alguma diferença. Obrigado Lauro Fotografia"<br>
+			<b>RALPH WALDO EMERSON</b></color><br><br></p>
+			</center>
+		</section>
+		
+		<hr width="50%">
+		
+		<section id="Produtos">
+			<img src ="img/equipamentos.png" title="Produtos">
+			<table  width= 100% height=100% align= center>
+			<tr>
+				<td> 
+					<center><img src ="img/microfone.png" title="Micrfone"></center>
+					<center><h2><font color="#f2f2f2">Microfone</color><br><br></h2></center>
+					<p><center><font face="Arial">Boom Sennheiser<br>
+					Lapela e Mão sem fio Sennheiser<br>
+					Lapela sem fio Sony<br>
+					Gravador Zoom H4N<br></p></center></font>
+				</td>
+				<td>
+					<center><img src ="img/camera.png" title="Câmera"></center>
+					<center><h2><font color="#f2f2f2">Câmera e Lentes<br><br></h2></center>
+					<center><font face="Arial">Red Scarlet Misterium X 4k<br>
+					Blackmagic Cinema Camera 2.5K<br>
+					Kit de Lentes Canon Prime<br>
+					Kit de Lentes Zeiss<br></center></font>
+				</td>
+				<td>
+					<center><img src ="img/luz.png" title="Luz & Maquinário"></center>
+					<center><h2><font color="#f2f2f2">Luz & Maquin�rio</color><br><br></h2></center>
+					<center><font face="Arial">HMI Par Flicker Free 1200W <br>
+					Fresnel 650 W<br>
+					Fresnel 1000 W<br>
+					Fresnel 2000 W<br></center></font>
+				</td>
+			</tr>
+			</table>
+		</section>
+		
+		<hr width="50%">
+		
+		<section id="Contato">	
+		<img src ="img/contato.png" title="Contato">
+		<center>
+		<div class="content">
+			<center><h1><font color="#f2f2f2"><font face="Arial">Fale Conosco, entre em contato</h1></center><br>
+				
+			<form class="form" method="POST" action="formulario.php">
+				<input class="field" name="nome" placeholder="Nome">
+				<input class="field" name="email" placeholder="E-mail">
+				<input class="field" name="telefone" placeholder="Telefone">
+				<textarea class="field" name="mensagem" placeholder="Digite sua mensagem aqui."></textarea>
+				<input class="field" type="reset" value="Limpar">
+				<input class="field" type="submit" value="Enviar">
+			
+			</form>
+		 </div>	
+		 </center>
+		</section>
+		<br>
+		<br>
+
+    <footer id="myFooter">
+            <div class="footer-social">
+            <a href ="https://www.instagram.com/gonzaga.lauro/?hl=pt-br" target="_blank class="social-icons"><i class="fa fa-instagram"></i></a>
+            <a href="https://www.youtube.com/" target="_blank class="social-icons"><i class="fa fa-youtube"></i></a>
+            <a href="https://www.facebook.com/lauro.gonzaga.5" target="_blank class="social-icons"><i class="fa fa-facebook"></i></a><br>
+			<br>
+			<p class="footer-copyright">© 2021 Copyright - Lauro Fotografia</p>
+			
+        </div>
+    </footer>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+	</body>
+</html>
+		
+		
+		
+			
+			
+		
+			
+		
+		
+		
